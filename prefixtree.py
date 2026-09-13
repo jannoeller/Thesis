@@ -1,3 +1,4 @@
+"Author: Dominik Westphal"
 def build_apta(
     l: int,
     words_by_label: list[list[str]],
